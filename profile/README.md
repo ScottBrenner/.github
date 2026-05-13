@@ -1,6 +1,6 @@
 # Stainless
 
-Learn more at [stainlessapi.com](https://stainlessapi.com), or on our [docs](https://stainlessapi.com/docs).
+Learn more at [https://www.stainless.com/](https://www.stainless.com/), or on our [docs](https://www.stainless.com/docs).
 
 ## Examples of SDKs we produce:
 
@@ -32,7 +32,7 @@ Learn more at [stainlessapi.com](https://stainlessapi.com), or on our [docs](htt
 
 1. To get started, [sign up](https://app.stainlessapi.com/signup) on our website.
 2. To push your OpenAPI specs whenever they change in your GiHub repo, 
-  use our [GitHub Action](https://github.com/marketplace/actions/stainless-upload-openapi-specification).
+  use our [GitHub Action](https://github.com/marketplace/actions/stainless-build-sdk).
 3. Once you've created GitHub repos for your production SDKs, 
   install our [GitHub App](https://github.com/marketplace/stainless-app) so we can keep them up-to-date with Release PRs.
 

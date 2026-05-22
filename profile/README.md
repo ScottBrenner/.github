@@ -1,6 +1,6 @@
 # Stainless
 
-Learn more at [https://www.stainless.com/](https://www.stainless.com/), or on our [docs](https://www.stainless.com/docs).
+Learn more at [stainless.com](https://www.stainless.com/), or on our [docs](https://www.stainless.com/docs).
 
 ## Examples of SDKs we produce:
 
